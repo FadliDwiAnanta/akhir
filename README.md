@@ -68,3 +68,4 @@ php artisan serve
 ````
 
 To get into the dashboard go to /register first.# akhir
+# quiz
